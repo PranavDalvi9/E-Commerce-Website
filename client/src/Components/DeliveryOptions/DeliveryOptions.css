@@ -1,0 +1,38 @@
+.DeliveryOptions{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 4%;
+}
+
+.DeliveryOptions>div{
+    width: 200px;
+    height: 250px;
+    /* border: 2px solid red; */
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
+}
+
+.DeliveryOptions>div>div{
+    width: 200px;
+    height: 130px;
+    /* border: 2px solid blue; */
+}
+
+img{
+    width: 70%;
+    height: 90%;
+}
+
+.DeliveryP1{
+    /* border: 2px solid black; */
+    font-family: Jost, sans-serif;
+    font-weight: bolder;
+    font-size: larger;
+    color: #000000;
+}
+
+.DeliveryP2{
+    font-family: Jost, sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #57667e;
+}

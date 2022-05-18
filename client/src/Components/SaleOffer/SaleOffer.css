@@ -1,0 +1,31 @@
+.SaleOffer{
+    /* border: 2px solid red; */
+    position: relative;
+    z-index: 2;
+    /* margin-top: 10px; */
+    margin-bottom: 10px;
+    top: 70px;
+    bottom: 70px;
+    background-color: black;
+    color: whitesmoke;
+    height: 70px;
+    align-content: center;
+    padding-top: 1%;
+}
+
+.SaleOffer>p{
+    /* border: 2px solid black; */
+    font-size: larger;
+    font-weight: bolder;
+}
+
+.SaleOffer>p>span{
+    /* border: 2px solid red; */
+    text-decoration: underline;
+    color: #a0937b;
+}
+
+.SaleOffer>p>span:hover{
+    word-spacing: 3px;
+    /* font-size: large; */
+}

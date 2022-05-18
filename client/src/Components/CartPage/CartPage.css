@@ -1,0 +1,173 @@
+.CartPage {
+  /* border: 2px solid red; */
+  width: 88%;
+  margin: auto;
+  padding-top: 2%;
+}
+
+.CartProdHeading {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.CartProdHeading > div:nth-child(1) {
+  /* border: 2px solid greenyellow; */
+  width: 130%;
+  text-align: start;
+  padding-left: 1%;
+}
+.CartProdHeading > div:nth-child(2) {
+  /* border: 2px solid greenyellow; */
+  width: 400px;
+}
+.CartProdHeading > div:nth-child(3) {
+  /* border: 2px solid greenyellow; */
+  width: 400px;
+}
+.CartProdHeading > div:nth-child(4) {
+  /* border: 2px solid greenyellow; */
+  width: 400px;
+}
+
+.IndividualProdCart {
+  color: black;
+  /* font-size: larger; */
+  font-weight: bolder;
+  align-items: center;
+  /* border: 2px solid saddlebrown; */
+  /* margin-bottom: 3%; */
+  border-bottom: 1px solid rgb(125, 115, 115);
+  padding-bottom: 3%;
+  padding-top: 3%;
+}
+.IndividualProdCart > div:nth-child(1) {
+  /* border: 2px solid greenyellow; */
+  width: 300px;
+  height: 100px;
+}
+.IndividualProdCart > div:nth-child(1) > img {
+  /* border: 2px solid greenyellow; */
+  width: 100%;
+  height: 100%;
+}
+
+.IndividualProdCart > div:nth-child(2) {
+  /* border: 2px solid greenyellow; */
+  width: 100%;
+}
+.IndividualProdCart > div:nth-child(3) {
+  /* border: 2px solid greenyellow; */
+  width: 400px;
+}
+.IndividualProdCart > div:nth-child(4) {
+  /* border: 2px solid greenyellow; */
+  width: 400px;
+}
+.IndividualProdCart > div:nth-child(5) {
+  /* border: 2px solid greenyellow; */
+  width: 400px;
+}
+
+.CartQuantityIncDec {
+  /* border: 2px solid black; */
+  width: 160px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  margin-left: 23%;
+}
+.CartQuantityIncDec > div {
+  /* border: 2px solid rebeccapurple; */
+  width: 50px;
+  height: 100%;
+}
+.CartQuantityIncDec > div:nth-child(1) {
+  /* border: 1px solid black; */
+  box-shadow: rgba(9, 30, 66, 0.25) 0px 1px 1px,
+    rgba(9, 30, 66, 0.13) 0px 0px 1px 1px;
+}
+
+.CartQuantityIncDec > div:nth-child(2) > div {
+  /* border: 1px solid black; */
+  box-shadow: rgba(9, 30, 66, 0.25) 0px 1px 1px,
+    rgba(9, 30, 66, 0.13) 0px 0px 1px 1px;
+  width: 80%;
+}
+
+.CartQuantityIncDec > div > div {
+  /* border: 2px solid red; */
+  width: 100%;
+  height: 50%;
+}
+.CartRemove {
+  width: 100%;
+  height: 25px;
+  padding-top: 5%;
+  font-size: small;
+  cursor: pointer;
+  /* border: 2px solid red; */
+}
+
+.UpdateANDcoupon {
+  margin-top: 3%;
+  display: flex;
+  justify-content: space-evenly;
+  /* border: 2px solid black; */
+  border-bottom: 1px solid rgb(125, 115, 115);
+  padding-bottom: 3%;
+}
+
+.UpdateANDcoupon > div {
+  /* border: 2px solid blueviolet; */
+  font-weight: bold;
+  border-radius: 25px;
+  background-color: #ff2020;
+  color: aliceblue;
+  width: 160px;
+  height: 50px;
+  padding-top: 0px;
+}
+
+.SubTotalDiv {
+  /* border: 2px solid red; */
+  display: flex;
+  justify-content: end;
+  color: black;
+  /* font-size: larger; */
+  font-weight: bolder;
+  border-bottom: 1px solid rgb(125, 115, 115);
+  padding-bottom: 2%;
+  padding-top: 2%;
+}
+
+.SubTotalDiv > div:nth-child(1) {
+  /* border: 2px solid red; */
+  margin-right: 18%;
+}
+
+.SubTotalDiv > div:nth-child(2) {
+  /* border: 2px solid blue; */
+  margin-right: 6.8%;
+}
+
+.Checkout {
+  display: flex;
+  padding-top: 3%;
+}
+.Checkout > div {
+  /* border: 2px solid red; */
+  font-weight: bold;
+  border-radius: 25px;
+  background-color: #ff2020;
+  color: aliceblue;
+  width: 184px;
+  margin-right: 1.5%;
+}
+
+.EmptyCart>p{
+  /* border: 2px solid red; */
+  font-size: 30px;
+  font-weight: bolder;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
