@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 
-//to add product
+//to add new product 
 const EcommerceProductsSchema = new mongoose.Schema(
   {
     title: { type: String, require: true }
