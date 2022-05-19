@@ -38,3 +38,10 @@
 <img width="934" alt="image" src="https://user-images.githubusercontent.com/96105012/169395833-41e28fea-18fd-4555-b9cf-70c736b6db00.png">
 <img width="941" alt="image" src="https://user-images.githubusercontent.com/96105012/169395909-68efe9ec-2c22-4acf-81af-d304d0a2a0fa.png">
 <img width="956" alt="image" src="https://user-images.githubusercontent.com/96105012/169396067-59422f36-e017-4048-9b5d-0a85aa10a7cf.png">
+
+### Login Page
+<img width="952" alt="image" src="https://user-images.githubusercontent.com/96105012/169396244-9e20db72-2635-487b-93ad-2efb5174ef0b.png">
+
+### Register Page
+<img width="944" alt="image" src="https://user-images.githubusercontent.com/96105012/169396330-4e791c7c-3495-4903-9aa0-46a432062031.png">
+
