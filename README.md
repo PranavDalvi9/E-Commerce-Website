@@ -12,3 +12,10 @@
 
 ### Footer 
 <img width="935" alt="image" src="https://user-images.githubusercontent.com/96105012/169393358-01133ec6-549e-454a-91a7-9c545a4ca097.png">
+
+
+### Men's Category Page
+<img width="932" alt="image" src="https://user-images.githubusercontent.com/96105012/169394197-3642fc68-2c7d-48f3-a397-967dd7e37645.png">
+
+### Various Filters on Left side of the Page
+<img width="925" alt="image" src="https://user-images.githubusercontent.com/96105012/169394683-0ff69b8d-9657-48be-89c7-6bae0fdc0ea9.png">
