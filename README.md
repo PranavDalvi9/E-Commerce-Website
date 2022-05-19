@@ -25,3 +25,16 @@
 
 ### Cart Page  Increase or Decrease the quantity of items. 
 <img width="946" alt="image" src="https://user-images.githubusercontent.com/96105012/169395189-3b84c7cc-417c-472c-a054-1baad3ca3407.png">
+
+
+### Check-Out Page
+<img width="938" alt="image" src="https://user-images.githubusercontent.com/96105012/169395560-17dd09f1-0a2d-4507-86a3-6df0c8e49a39.png">
+
+### Payment Page
+<img width="939" alt="image" src="https://user-images.githubusercontent.com/96105012/169395678-894e546f-1f10-4a5d-b0b7-26aa9e8309de.png">
+
+
+### RazorPay Payment 
+<img width="934" alt="image" src="https://user-images.githubusercontent.com/96105012/169395833-41e28fea-18fd-4555-b9cf-70c736b6db00.png">
+<img width="941" alt="image" src="https://user-images.githubusercontent.com/96105012/169395909-68efe9ec-2c22-4acf-81af-d304d0a2a0fa.png">
+<img width="956" alt="image" src="https://user-images.githubusercontent.com/96105012/169396067-59422f36-e017-4048-9b5d-0a85aa10a7cf.png">
