@@ -70,7 +70,8 @@ This is the footer of the website
 On this page, users can see the selected category products on the website.
 <img width="932" alt="image" src="https://user-images.githubusercontent.com/96105012/169394197-3642fc68-2c7d-48f3-a397-967dd7e37645.png">
 
-### Various Filters on Left side of the Page
+### Various Filters on Left side of the Page 
+Users can apply different filters on this page such as price, rating, size, etc. Users can read all details of any product after clicking on that product.
 <img width="925" alt="image" src="https://user-images.githubusercontent.com/96105012/169394683-0ff69b8d-9657-48be-89c7-6bae0fdc0ea9.png">
 
 ### Product Description Page
