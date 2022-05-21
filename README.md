@@ -39,12 +39,13 @@ Took some help from these resources
 # Glimpse of Our Work:-
 
 
-### Register Page
+## Register Page
 Users can create a account on this page.
 <img width="944" alt="image" src="https://user-images.githubusercontent.com/96105012/169396330-4e791c7c-3495-4903-9aa0-46a432062031.png">
 
 
-### Login Page
+## Login Page
+Only valid user can login on this web application. If user is not valid, then it will show an error. If user is valid, then user will redirect to home page for shopping.
 <img width="952" alt="image" src="https://user-images.githubusercontent.com/96105012/169396244-9e20db72-2635-487b-93ad-2efb5174ef0b.png">
 
 ### Home Page Navbar And Landing Page
