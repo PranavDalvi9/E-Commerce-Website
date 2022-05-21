@@ -76,14 +76,18 @@ Users can apply different filters on this page such as price, rating, size, etc.
 
 ### Product Description Page
 On this page, users can read all the details of any product. Also, users can add product to cart using add to cart button.
+
 <img width="934" alt="image" src="https://user-images.githubusercontent.com/96105012/169395084-76134c28-2974-4b7c-b623-e844997e6f95.png">
 
 ### Cart Page  Increase or Decrease the quantity of items. 
 Users can see all the products added in the cart with quantity, price and total amount.
+
 <img width="946" alt="image" src="https://user-images.githubusercontent.com/96105012/169395189-3b84c7cc-417c-472c-a054-1baad3ca3407.png">
 
 
 ### Check-Out Page
+On this page users have to fill all the details for shipping purpose. Also, users can apply promo code for discount.
+
 <img width="938" alt="image" src="https://user-images.githubusercontent.com/96105012/169395560-17dd09f1-0a2d-4507-86a3-6df0c8e49a39.png">
 
 ### Payment Page
