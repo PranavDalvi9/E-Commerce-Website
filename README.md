@@ -13,6 +13,15 @@
 7. Users have to fill address details for shipping.
 8. Users can pay money using a card as well as RazorPay.
 
+### Technologies that we used
+1. REACT
+2. CSS
+3. Node.js
+4. Express.js
+5. MongoDB
+6. MUI(Material UI)
+
+
 
 ### Home Page Navbar And Landing Page
 <img width="944" alt="image" src="https://user-images.githubusercontent.com/96105012/169392299-f770fb00-8295-445f-b7bc-141f5d36ed5b.png">
