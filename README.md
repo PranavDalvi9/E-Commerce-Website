@@ -39,11 +39,11 @@ Took some help from these resources
 # Glimpse of Our Work:-
 
 
-### Login Page
-<img width="952" alt="image" src="https://user-images.githubusercontent.com/96105012/169396244-9e20db72-2635-487b-93ad-2efb5174ef0b.png">
-
 ### Register Page
 <img width="944" alt="image" src="https://user-images.githubusercontent.com/96105012/169396330-4e791c7c-3495-4903-9aa0-46a432062031.png">
+
+### Login Page
+<img width="952" alt="image" src="https://user-images.githubusercontent.com/96105012/169396244-9e20db72-2635-487b-93ad-2efb5174ef0b.png">
 
 ### Home Page Navbar And Landing Page
 <img width="944" alt="image" src="https://user-images.githubusercontent.com/96105012/169392299-f770fb00-8295-445f-b7bc-141f5d36ed5b.png">
