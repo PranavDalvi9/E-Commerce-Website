@@ -38,6 +38,13 @@ Took some help from these resources
 
 # Glimpse of Our Work:-
 
+
+### Login Page
+<img width="952" alt="image" src="https://user-images.githubusercontent.com/96105012/169396244-9e20db72-2635-487b-93ad-2efb5174ef0b.png">
+
+### Register Page
+<img width="944" alt="image" src="https://user-images.githubusercontent.com/96105012/169396330-4e791c7c-3495-4903-9aa0-46a432062031.png">
+
 ### Home Page Navbar And Landing Page
 <img width="944" alt="image" src="https://user-images.githubusercontent.com/96105012/169392299-f770fb00-8295-445f-b7bc-141f5d36ed5b.png">
 
@@ -77,9 +84,4 @@ Took some help from these resources
 <img width="941" alt="image" src="https://user-images.githubusercontent.com/96105012/169395909-68efe9ec-2c22-4acf-81af-d304d0a2a0fa.png">
 <img width="956" alt="image" src="https://user-images.githubusercontent.com/96105012/169396067-59422f36-e017-4048-9b5d-0a85aa10a7cf.png">
 
-### Login Page
-<img width="952" alt="image" src="https://user-images.githubusercontent.com/96105012/169396244-9e20db72-2635-487b-93ad-2efb5174ef0b.png">
-
-### Register Page
-<img width="944" alt="image" src="https://user-images.githubusercontent.com/96105012/169396330-4e791c7c-3495-4903-9aa0-46a432062031.png">
 
