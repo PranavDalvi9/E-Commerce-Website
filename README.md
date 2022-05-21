@@ -3,6 +3,17 @@
 
 ### Project Deployed Link : https://e-commerce-website-pranav-pranavdalvi9.vercel.app/
 
+### Features: 
+1. You will find latest products on this website.
+2. It has features of authentication, Login and Register User.
+3. It has different categories. User can find products using filters such as a Price, Rating, Size, Discount Range.
+4. Users can read details of each product by clicking on product.
+5. Users can add products to the cart.
+6. Users can see all previously added products and quantity in a cart.
+7. Users have to fill address details for shipping.
+8. Users can pay money using a card as well as RazorPay.
+
+
 ### Home Page Navbar And Landing Page
 <img width="944" alt="image" src="https://user-images.githubusercontent.com/96105012/169392299-f770fb00-8295-445f-b7bc-141f5d36ed5b.png">
 
