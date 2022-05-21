@@ -3,7 +3,7 @@
 
 ### Project Deployed Link : https://e-commerce-website-pranav-pranavdalvi9.vercel.app/
 
-### Features: 
+# Features:-
 1. You will find latest products on this website.
 2. It has features of authentication, Login and Register User.
 3. It has different categories. User can find products using filters such as a Price, Rating, Size, Discount Range.
