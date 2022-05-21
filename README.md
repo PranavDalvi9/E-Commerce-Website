@@ -27,7 +27,7 @@ Pranav Dalvi - [My Linkedin](https://www.linkedin.com/in/pranavsanjaydalvi/)
 
 Project Link - [Project Repo](https://github.com/PranavDalvi9/E-Commerce-Website)
 
-Project Deployed Link - [Project Repo](https://e-commerce-website-pranav-pranavdalvi9.vercel.app/)
+Project Deployed Link - [Project Deployed Link](https://e-commerce-website-pranav-pranavdalvi9.vercel.app/)
 
 
 ## Acknowledgment
