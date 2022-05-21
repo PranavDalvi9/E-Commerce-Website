@@ -49,9 +49,11 @@ Only valid user can login on this web application. If user is not valid, then it
 <img width="952" alt="image" src="https://user-images.githubusercontent.com/96105012/169396244-9e20db72-2635-487b-93ad-2efb5174ef0b.png">
 
 ### Home Page Navbar And Landing Page
+On this page, users can see Navbar and Landing image of the website.
 <img width="944" alt="image" src="https://user-images.githubusercontent.com/96105012/169392299-f770fb00-8295-445f-b7bc-141f5d36ed5b.png">
 
 ### Home Page Category
+On this page, users can see Category of Product List.
 <img width="932" alt="image" src="https://user-images.githubusercontent.com/96105012/169392603-adfc8dee-3d61-4f13-8f59-dfc5874a9b9e.png">
 
 
