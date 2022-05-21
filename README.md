@@ -62,10 +62,12 @@ On this page, users can see the trending products on the website.
 <img width="918" alt="image" src="https://user-images.githubusercontent.com/96105012/169393205-a0e59f85-8842-4dcc-b881-d4588bc42113.png">
 
 ### Footer 
+This is the footer of the website
 <img width="935" alt="image" src="https://user-images.githubusercontent.com/96105012/169393358-01133ec6-549e-454a-91a7-9c545a4ca097.png">
 
 
 ### Men's Category Page
+On this page, users can see the selected category products on the website.
 <img width="932" alt="image" src="https://user-images.githubusercontent.com/96105012/169394197-3642fc68-2c7d-48f3-a397-967dd7e37645.png">
 
 ### Various Filters on Left side of the Page
