@@ -72,6 +72,7 @@ On this page, users can see the selected category products on the website.
 
 ### Various Filters on Left side of the Page 
 Users can apply different filters on this page such as price, rating, size, etc. Users can read all details of any product after clicking on that product.
+
 <img width="925" alt="image" src="https://user-images.githubusercontent.com/96105012/169394683-0ff69b8d-9657-48be-89c7-6bae0fdc0ea9.png">
 
 ### Product Description Page
