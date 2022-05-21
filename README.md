@@ -21,6 +21,12 @@
 5. MongoDB
 6. MUI(Material UI)
 
+## Contact
+
+Pranav Dalvi - [My Linkedin](https://www.linkedin.com/in/pranavsanjaydalvi/)
+
+Project Link - [Project Repo](https://github.com/PranavDalvi9/E-Commerce-Website)
+
 
 ## Acknowledgment
 Took some help from these resources 
