@@ -40,7 +40,9 @@ Took some help from these resources
 
 
 ### Register Page
+Users can create a account on this page.
 <img width="944" alt="image" src="https://user-images.githubusercontent.com/96105012/169396330-4e791c7c-3495-4903-9aa0-46a432062031.png">
+Users can create a account on this page.
 
 ### Login Page
 <img width="952" alt="image" src="https://user-images.githubusercontent.com/96105012/169396244-9e20db72-2635-487b-93ad-2efb5174ef0b.png">
