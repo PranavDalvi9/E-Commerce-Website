@@ -75,6 +75,7 @@ Users can apply different filters on this page such as price, rating, size, etc.
 <img width="925" alt="image" src="https://user-images.githubusercontent.com/96105012/169394683-0ff69b8d-9657-48be-89c7-6bae0fdc0ea9.png">
 
 ### Product Description Page
+On this page, users can read all the details of any product. Also, users can add product to cart using add to cart button.
 <img width="934" alt="image" src="https://user-images.githubusercontent.com/96105012/169395084-76134c28-2974-4b7c-b623-e844997e6f95.png">
 
 ### Cart Page  Increase or Decrease the quantity of items. 
