@@ -87,15 +87,17 @@ Users can see all the products added in the cart with quantity, price and total 
 
 
 ### Check-Out Page
-On this page users have to fill all the details for shipping purpose. Also, users can apply promo code for discount.
+On this page users have to fill all the details for shipping purpose. Also, users can increase or decrease the quantity of product.
 
 <img width="938" alt="image" src="https://user-images.githubusercontent.com/96105012/169395560-17dd09f1-0a2d-4507-86a3-6df0c8e49a39.png">
 
 ### Payment Page
+Users have to fill the mobile number then the user will be redirected to the razorPay page.
 <img width="939" alt="image" src="https://user-images.githubusercontent.com/96105012/169395678-894e546f-1f10-4a5d-b0b7-26aa9e8309de.png">
 
 
 ### RazorPay Payment 
+Users can pay money by filling card details or users can also use other payment option on payment gateway.
 <img width="934" alt="image" src="https://user-images.githubusercontent.com/96105012/169395833-41e28fea-18fd-4555-b9cf-70c736b6db00.png">
 <img width="941" alt="image" src="https://user-images.githubusercontent.com/96105012/169395909-68efe9ec-2c22-4acf-81af-d304d0a2a0fa.png">
 <img width="956" alt="image" src="https://user-images.githubusercontent.com/96105012/169396067-59422f36-e017-4048-9b5d-0a85aa10a7cf.png">
