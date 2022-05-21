@@ -1,4 +1,5 @@
 # E-Commerce-Website
+### Champ is a E-Commerce Website design by me. This project was build as a individual project in Masai School. 
 
 ### Project Deployed Link : https://e-commerce-website-pranav-pranavdalvi9.vercel.app/
 
