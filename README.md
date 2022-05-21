@@ -13,7 +13,7 @@
 7. Users have to fill address details for shipping.
 8. Users can pay money using a card as well as RazorPay.
 
-### Technologies that we used
+# Technologies that we used :-
 1. REACT
 2. CSS
 3. Node.js
