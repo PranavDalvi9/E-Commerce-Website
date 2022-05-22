@@ -1,6 +1,5 @@
 # E-Commerce-Website
-### Champ is a E-Commerce Website design by me. This project was build as a individual project in Masai School. 
-
+### I have design an E-Commerce Website named Champ. This project was build as a individual project in Masai School. 
 
 # Features:-
 1. You will find latest products on this website.
