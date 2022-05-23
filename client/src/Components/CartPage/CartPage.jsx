@@ -43,7 +43,6 @@ const handleRemoveQuantity = (e) => {
   // toast.success("Product Added To Cart Successfully")
 }
 
-
   return (
     <div>
 

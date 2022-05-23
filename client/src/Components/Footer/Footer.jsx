@@ -49,7 +49,7 @@ export default function Footer() {
 
             <div className='Footer2'>
                 <div>
-                    <p>Name</p>
+                    <p><p className='FontStyleNav'>Champ</p></p>
                 </div>
 
                 <div>

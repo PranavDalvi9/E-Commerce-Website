@@ -21,8 +21,8 @@ export default function PaymentPage() {
   var numberOfItems = data.length
 
   for (var i = 0; i < data.length; i++) {
-    totalMRP += data[i].price.sp;
-    discountMRP += data[i].price.mrp
+    totalMRP += (data[i].price.sp *  data[i].qty)
+    discountMRP += (data[i].price.mrp *  data[i].qty)
   }
 
   const dispatch = useDispatch()
@@ -142,7 +142,7 @@ export default function PaymentPage() {
 
   <div className='ProductFlex'>
     <div><p>Discount on MRP</p></div>
-    <div className='greenText'><p>-₹{discountMRP}</p></div>
+    <div className='greenText'><p>-₹{discountMRP - totalMRP}</p></div>
   </div>
 
   <div className='ProductFlex marginBtm'>

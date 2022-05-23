@@ -95,3 +95,11 @@ input{
   .dropdown:hover .dropbtn {
     background-color: #3e8e41;
   }
+
+  .FontStyleNav{
+    font-family: 'Water Brush', cursive;
+    /* border: 2px solid red; */
+    font-size: 30px;
+    /* width: 100%;
+    height: 100%; */
+  }

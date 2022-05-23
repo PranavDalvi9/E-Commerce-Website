@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import "./ConatctDetails.css";
 import { useDispatch, useSelector } from "react-redux";
 import { deleteItemCart } from "../../Redux/Cart/Action";
@@ -7,6 +7,11 @@ import Box from "@mui/material/Box";
 import TextField from "@mui/material/TextField";
 import InputLabel from "@mui/material/InputLabel";
 import { useNavigate } from "react-router-dom";
+import { addCart, addWishlist,removeOneCart } from '../../Redux/Cart/Action'
+
+
+import { ToastContainer, toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 
 export default function ConatctDetails() {
     const navigate = useNavigate();
@@ -19,6 +24,7 @@ export default function ConatctDetails() {
     const [locality, setLocality] = useState("")
     const [city, setCity] = useState("")
     const [state, setState] = useState("")
+    const [totalMRP , setTotalMRP] = useState(0)
 
     const data = useSelector((store) => store.cart.cart);
 
@@ -29,9 +35,11 @@ export default function ConatctDetails() {
     var total = 0;
 
     for (var i = 0; i < data.length; i++) {
-        total += data[i].price.sp;
+        total += (data[i].price.sp *  data[i].qty)
     }
-      
+    useEffect(() => {
+        setTotalMRP(total)
+      },[total])
    
     const handleContinue = () => {
         
@@ -48,8 +56,21 @@ export default function ConatctDetails() {
         console.log("datatt" , data)
         goToTop()
         navigate("/payment")
-        
       }
+      const handleAddBag = (e) => {
+        console.log("data",e)
+        dispatch(addCart(e))
+        // alert("Product Added To Cart Successfully")
+        toast.success("Product Added To Cart Successfully")
+    }
+    
+    const handleRemoveQuantity = (e) => {
+      console.log("remove",e)
+      dispatch(removeOneCart(e))
+      // alert("Product Added To Cart Successfully")
+      // toast.success("Product Added To Cart Successfully")
+    }
+
 
     return (
         <div className="ConatctDetailsMain">
@@ -182,11 +203,11 @@ export default function ConatctDetails() {
                             <div>
                                 <div className="CartQuantityIncDec">
                                     <div>
-                                        <p>1</p>
+                                        <p>{e.qty}</p>
                                     </div>
                                     <div>
-                                        <div>+</div>
-                                        <div>-</div>
+                                        <div  onClick={() => handleAddBag(e)}>+</div>
+                                        <div onClick={() => handleRemoveQuantity(e)}>-</div>
                                     </div>
                                 </div>
 
@@ -198,7 +219,7 @@ export default function ConatctDetails() {
                                 </div>
                             </div>
                             <div>
-                                <p>₹ {e.price.sp}</p>
+                                <p>₹ {(e.qty)*(e.price.sp)}</p>
                             </div>
                         </div>
                     ))}
@@ -208,7 +229,7 @@ export default function ConatctDetails() {
                             <p>Subtotal</p>
                         </div>
                         <div>
-                            <p>₹ {total}</p>
+                            <p>₹ {totalMRP}</p>
                         </div>
                     </div>
                 </div>
@@ -217,6 +238,7 @@ export default function ConatctDetails() {
                     <p>Your Cart is Empty</p>
                 </div>
             )}
+            <ToastContainer />
         </div>
     );
 }
