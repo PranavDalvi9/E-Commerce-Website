@@ -28,7 +28,8 @@ app.post("/register", register);
 // .login
 app.post("/login", login);
 
-
+// app.use("/users", userController);
+// app.use("/products", productController);
 
 app.use("/api/payment/", paymentRoutes);
 

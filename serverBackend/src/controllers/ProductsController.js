@@ -3,18 +3,6 @@ const Todos = require("../models/ProductsModal");
 
 const router = express.Router();
 
-// router.post("", async (req, res) => {
-//   try {
-//     console.log(req.body);
-//     const data = await Todos.create(req.body);
-//     return res.send(data);
-//   } catch (error) {
-//     return res.send(500).send({ message: error.message });
-//   }
-// });
-
-// find all   http://localhost:2345/product
-
 router.get("", async (req, res) => {
   try {
     const data = await Todos.find().lean().exec();
@@ -62,6 +50,5 @@ router.get("/:id", async (req, res) => {
     return res.send(error);
   }
 });
-
 
 module.exports = router;
