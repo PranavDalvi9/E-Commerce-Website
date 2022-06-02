@@ -8,7 +8,7 @@ import TextField from "@mui/material/TextField";
 import InputLabel from "@mui/material/InputLabel";
 import { useNavigate } from "react-router-dom";
 import { addCart, addWishlist,removeOneCart } from '../../Redux/Cart/Action'
-
+import axios from "axios"
 
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
@@ -70,6 +70,25 @@ export default function ConatctDetails() {
       // alert("Product Added To Cart Successfully")
       // toast.success("Product Added To Cart Successfully")
     }
+
+    // changes
+//     const [dataInt , setDataInt] = useState([])
+
+// useEffect(() => {
+//     axios.get("https://cdn-api.co-vin.in/api/v2/appointment/sessions/public/calendarByDistrict?district_id=392&date=02-06-2022").then((res) => setDataInt(res.data.centers)).catch((err) => console.log(err))
+// },[])
+// // console.log("datata" , dataInt)
+// var allSections = []
+// // ...allSectionsl,new
+// const appa=  (dataInt.map((center) => allSections.push(...center.sessions)))
+// console.log("app111",allSections)
+
+
+// const filterCapacity = allSections.filter((e) => (e.available_capacity > 0  && e.vaccine === "COVAXIN" ))
+
+// console.log("filtercapacity" , filterCapacity)
+
+    // changes end
 
 
     return (
