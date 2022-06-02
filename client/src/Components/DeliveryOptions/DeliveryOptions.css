@@ -36,3 +36,30 @@ img{
     font-size: 16px;
     color: #57667e;
 }
+
+
+  /* ====== Media queries (Small Devices) =======*/
+  
+  @media screen and (max-width:400px){
+    .DeliveryOptions{
+        /* border: 2px solid red;    */
+        width: 200%;
+        margin-left: 8%;
+        margin-top: 50%;
+        /* margin: auto; */
+        /* display: flex;
+        flex-direction: column; */
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        grid-template-rows: auto;
+    }
+  }
+
+/* ====== Media queries (Medium Devices) =======*/
+@media only screen and (max-width: 1000px) and (min-width: 600px){
+    .DeliveryOptions{
+        border: 2px solid blue;
+    }
+  }
+
+  /* @media (min-width: 30em) and (max-width: 50em) { ... } */
